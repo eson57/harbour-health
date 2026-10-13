@@ -25,7 +25,8 @@ HEADERS += \
     src/filewriter.h
 
 TRANSLATIONS += \
-    translations/harbour-health.ts
+    translations/harbour-health.ts \
+    translations/harbour-health-sv.ts
 
 DISTFILES += \
     qml/harbour-health.qml \
